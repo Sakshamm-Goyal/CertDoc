@@ -1,0 +1,15 @@
+python-dotenv
+flask
+pymongo
+redis
+flask_session
+flask_limiter
+sib-api-v3-sdk
+web3
+cryptography
+flask_session
+flask_limiter
+requests
+python-dotenv
+requests
+bcrypt
